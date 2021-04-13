@@ -84,7 +84,7 @@ Afterward, the innovations and updates in this device industry are still continu
 # Detail Requirements
 ## High Level Requirements: 
 | ID | Description | Status (Implemented/Future) | 
-| ----- | ----- | ------- | ---------|
+| ----- | ----- | ---------|
 | HR01 | User shall be able to perform Arthimetic Operations | Implemented | 
 | HR02 | User shall be able to Other operations | Implemented |
 | HR03 | User shall be able to Trignometric Operations | Implemented |
