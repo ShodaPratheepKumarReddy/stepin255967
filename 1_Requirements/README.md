@@ -59,7 +59,7 @@ Afterward, the innovations and updates in this device industry are still continu
     * '14' - Cosecant function
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/ShodaPratheepKumarReddy/stepin255957/blob/main/1_Requirements/swot.png)
+![SWOT Analysis](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/swot.png)
 
 # 4W&#39;s and 1&#39;H
 
