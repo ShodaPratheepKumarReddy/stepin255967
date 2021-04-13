@@ -34,9 +34,9 @@
 |  L_20       | H_02 | Performing Factorial | -1 | FAILURE | FAILURE |  Boundary based |
 |  L_21       | H_03 | Performing Sine | 90 | 1 | 1 | Requirement based |
 |  L_22       | H_03 | Performing Cosine | 0 | 1 | 1 | Requirement based |
-|  L_23       | H_03 | Performing Tangent | 45 | 0.999999 | 0.999999 | Requirement based |
+|  L_23       | H_03 | Performing Tangent | 45 | 1 | 0.999999 | Requirement based |
 |  L_24       | H_03 | Performing Tangent | 90 | UNDEFINED | UNDEFINED | Boundary based |
-|  L_25       | H_03 | Performing Cotangent | 45 | 1.000001 | 1.000001 | Requirement based |
+|  L_25       | H_03 | Performing Cotangent | 45 | 1 | 1.000001 | Requirement based |
 |  L_26       | H_03 | Performing Cotangent | 90 | 0 | 0 | Requirement based |
 |  L_27       | H_03 | Performing Secant | 0 | 1 | 1 | Requirement based |
 |  L_28       | H_03 | Performing Secant | 90 | UNDEFINED | UNDEFINED | Boundary based |
