@@ -10,7 +10,7 @@
 
 ## Table no: Low level test plan
 
-| **Test ID** | **HL_ID** | **Description**   | **Exp I/P** | **Exp O/P** | **Actual O/P** |**Type Of Test**  |    
+| **Test ID** | **HL_ID** | **Description**   | **Exp Input** | **Exp Output** | **Actual Output** |**Type Of Test**  |    
 |-------------|-----------|---------------------------|------------|-------------|----------------|------------------|
 |  L_01       | H_01 | Performing Addition | (20,10) | 30 | 30 | Requirement based |
 |  L_02       | H_01 | Performing Addition | (2*3+5,8/2-1) | 14 | 14 | Scenario based |
