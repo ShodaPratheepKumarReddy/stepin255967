@@ -6,7 +6,7 @@
 
 ## Low Level Design 
 * Structural Diagram:
-![Structural](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/2_Design/Structural.png)
+![Structural](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/2_Architecture/Structural.png)
 
 * Behavioural Diagram:
-![Behavioural](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/2_Design/Behavioural.png)
+![Behavioural](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/2_Architecture/Behaviour.png)
