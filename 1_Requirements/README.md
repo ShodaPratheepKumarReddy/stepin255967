@@ -10,11 +10,11 @@ In the mid-’60s to the ’70s, there was the time of programmable calculators.
 Then, there comes a time in the ’70s. The revolution in calculator manufacturing. Companies started manufacturing pocket calculators. Moreover, it has great size and less need of power to solve the problem. The cost of these calculators is also very less.
 Afterward, the innovations and updates in this device industry are still continuing. Meanwhile, manufacturers are putting all their efforts and research and development techniques to improve the technology for multi-purposes.
 #### Advantages
-* Calculator can solve complicated problems quickly and in an efficient manner.
-* Computations done via calculators are more accurate to the ones done by humans.
+*   Calculator can solve complicated problems quickly and in an efficient manner.
+*   Computations done via calculators are more accurate to the ones done by humans.
 #### Disadvantges
-* Calculator limits the knowledge of users.
-* Calculators can aid a lot in cheating.
+*   Calculator limits the knowledge of users.
+*   Calculators can aid a lot in cheating.
 ## Features with time
 | Time | Feature | Device Name | Inventor |
 | ---- | ------ | ---------- | ---------|
@@ -32,15 +32,15 @@ Afterward, the innovations and updates in this device industry are still continu
 ![System Overview](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/System.png)
 ### Features
 #### Arthimetic Operations:By choosing  choice between '1' to '4'
-* '1'-Addition
-* '2'-Subtraction
-* '3'-Multiplication
-* '4'-Division
+*   '1'-Addition
+*   '2'-Subtraction
+*   '3'-Multiplication
+*   '4'-Division
 #### Other Operations: By choosing choice between '5' to '8'
-* '5'-Power
-* '6'-Square root of a number.
-* '7'-logarithm with base 10.
-* '8'-Factorail of a number.
+*   '5'-Power
+*   '6'-Square root of a number.
+*   '7'-logarithm with base 10.
+*   '8'-Factorail of a number.
 #### Trignometric Operations: By choosing choice between '9' to '14'
 * '9'-Sine function.
 * '10'-Cosine function
