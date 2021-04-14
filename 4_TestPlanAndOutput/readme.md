@@ -1,4 +1,4 @@
-# TEST PLAN:
+# TEST PLAN
 
 ## Table no: High level test plan
 
@@ -42,9 +42,4 @@
 |  L_28       | H_03 | Performing Secant | 90 | UNDEFINED | UNDEFINED | Boundary based |
 |  L_29       | H_03 | Performing Cosecant | 90 | 1 | 1 | Requirement based |
 |  L_30       | H_03 | Performing Cosecant | 180 | UNDEFINED | UNDEFINED | Boundary based |
-
-
-
-
-
 
