@@ -2,7 +2,6 @@
 ## Introduction
 * Scientific calculators are used widely in situations that require quick access to certain mathematical functions,especially those that were once looked up in mathematical tables,such as trigonometric functions or logarithms.A scientific calculator is a calculator designed to help you calculate science,engineering and mathematics problems. 
 * In this project we will be implementing the some operation like Arthimetic operations,Trignometric operations and some essential operations using C language.
- 
 ## Research
 ### History of Calculator
 The importance of this helpful tool was known in the early times. At that time, early men use bones, pebbles and other objects to tally the calculations. But, it was very limited in nature. So, when the first mainframe computers came into existence. It was using vacuum tubes and transistors. That leads to stepping stones to develop an electronic calculator.
@@ -16,7 +15,6 @@ Afterward, the innovations and updates in this device industry are still continu
 #### Disadvantges
 * Calculator limits the knowledge of users.
 * Calculators can aid a lot in cheating.
-
 ## Features with time
 | Time | Feature | Device Name | Inventor |
 | ---- | ------ | ---------- | ---------|
@@ -29,7 +27,6 @@ Afterward, the innovations and updates in this device industry are still continu
 | 1974 | Programmable Calculator | HP-65 | Hewlett-Packard |
 | 1985 | Graphing Calculator | Casio FX-7000G | Casio |
 | 2010 | Color Graphing Calculator | Casio Prism | Casio |
-
 ## Defining Our System
 ### System Overview
 ![System Overview](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/System.png)
@@ -51,13 +48,12 @@ Afterward, the innovations and updates in this device industry are still continu
 * '12'-Cotangent function
 * '13'-Secant function
 * '14'-Cosecant function
-
 ## SWOT ANALYSIS
 ![SWOT Analysis](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/swot.png)
 
 # 4W&#39;s and 1&#39;H
 ## Who
-* Any user can use this project for performing calculations quickly.
+  * Any user can use this project for performing calculations quickly.
 ## What
 ### For performing the below operations
 * Arthimetic Operations
@@ -69,7 +65,6 @@ Afterward, the innovations and updates in this device industry are still continu
 * This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
 ## How
 * By choosing the correct choice number for the operation to be performed.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
-
 # Detail Requirements
 ## High Level Requirements 
 | ID | Description | Status (Implemented/Future) | 
