@@ -15,7 +15,6 @@ Afterward, the innovations and updates in this device industry are still continu
 #### Advantages
 * Calculator can solve complicated problems quickly and in an efficient manner.
 * Computations done via calculators are more accurate to the ones done by humans.
-
 #### Disadvantges
 * Calculator limits the knowledge of users.
 * Calculators can aid a lot in cheating.
@@ -37,17 +36,17 @@ Afterward, the innovations and updates in this device industry are still continu
 ### System Overview
 ![System Overview](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/System.png)
 ### Features
-#### Arthimetic Operations:By choosing  choice between '1' to '4'.
+#### Arthimetic Operations:By choosing  choice between '1' to '4'
 * '1' - Addition
 * '2' - Subtraction
 * '3' - Multiplication
 * '4' - Division
-#### Other Operations: By choosing choice between '5' to '8'.
+#### Other Operations: By choosing choice between '5' to '8'
 * '5' - Power
 * '6' - Square root of a number.
 * '7' - logarithm with base 10.
 * '8' - Factorail of a number.
-#### Trignometric Operations: By choosing choice between '9' to '14'.
+#### Trignometric Operations: By choosing choice between '9' to '14'
 * '9'  - Sine function.
 * '10' - Cosine function
 * '11' - Tangent function
@@ -64,10 +63,10 @@ Afterward, the innovations and updates in this device industry are still continu
 * Any user can use this project for performing calculations quickly.
 
 ## What
-#### For performing the below operations:
+#### For performing the below operations
 * Arthimetic Operations
 * Trignometric Operations
-* Other Operations like calculating power,square root,factorial.
+* Other Operations like calculating power, square root and factorial.
 
 ## When
 * User can use at any time for performing calculations. 
