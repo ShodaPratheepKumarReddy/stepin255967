@@ -6,10 +6,8 @@
 ## Research
 ### History of Calculator
 The importance of this helpful tool was known in the early times. At that time, early men use bones, pebbles and other objects to tally the calculations. But, it was very limited in nature. So, when the first mainframe computers came into existence. It was using vacuum tubes and transistors. That leads to stepping stones to develop an electronic calculator.
-
 Therefore, the first electronic calculator was launched by Casio computer company in 1957. followed by a series of models with compact technology. Some leading manufactures opted for this technology to cover this new market. Like Canon, Sony, Toshiba, Olivetti, etc.
 In the mid-’60s to the ’70s, there was the time of programmable calculators. Those were heavy desktop machines with the large needs of AC power supply.
-
 Then, there comes a time in the ’70s. The revolution in calculator manufacturing. Companies started manufacturing pocket calculators. Moreover, it has great size and less need of power to solve the problem. The cost of these calculators is also very less.
 Afterward, the innovations and updates in this device industry are still continuing. Meanwhile, manufacturers are putting all their efforts and research and development techniques to improve the technology for multi-purposes.
 #### Advantages
@@ -37,43 +35,38 @@ Afterward, the innovations and updates in this device industry are still continu
 ![System Overview](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/System.png)
 ### Features
 #### Arthimetic Operations:By choosing  choice between '1' to '4'
-* '1' - Addition
-* '2' - Subtraction
-* '3' - Multiplication
-* '4' - Division
+* '1'-Addition
+* '2'-Subtraction
+* '3'-Multiplication
+* '4'-Division
 #### Other Operations: By choosing choice between '5' to '8'
-* '5' - Power
-* '6' - Square root of a number.
-* '7' - logarithm with base 10.
-* '8' - Factorail of a number.
+* '5'-Power
+* '6'-Square root of a number.
+* '7'-logarithm with base 10.
+* '8'-Factorail of a number.
 #### Trignometric Operations: By choosing choice between '9' to '14'
-* '9'  - Sine function.
-* '10' - Cosine function
-* '11' - Tangent function
-* '12' - Cotangent function
-* '13' - Secant function
-* '14' - Cosecant function
+* '9'-Sine function.
+* '10'-Cosine function
+* '11'-Tangent function
+* '12'-Cotangent function
+* '13'-Secant function
+* '14'-Cosecant function
 
 ## SWOT ANALYSIS
 ![SWOT Analysis](https://github.com/ShodaPratheepKumarReddy/stepin255967/blob/main/1_Requirements/swot.png)
 
 # 4W&#39;s and 1&#39;H
-
 ## Who
 * Any user can use this project for performing calculations quickly.
-
 ## What
-#### For performing the below operations
+### For performing the below operations
 * Arthimetic Operations
 * Trignometric Operations
 * Other Operations like calculating power, square root and factorial.
-
 ## When
 * User can use at any time for performing calculations. 
-
 ## Where
 * This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
-
 ## How
 * By choosing the correct choice number for the operation to be performed.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
 
@@ -84,7 +77,6 @@ Afterward, the innovations and updates in this device industry are still continu
 | HR01 | User shall be able to perform Arthimetic Operations | Implemented | 
 | HR02 | User shall be able to Other operations | Implemented |
 | HR03 | User shall be able to Trignometric Operations | Implemented |
-
 ##  Low level Requirements
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
