@@ -65,14 +65,14 @@ Afterward, the innovations and updates in this device industry are still continu
   * This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
 ## How
   * By choosing the correct choice number for the operation to be performed.The user will be getting the result ouptut on the display without having knowledge on C or any other programming.
-# Detail Requirements
-## High Level Requirements 
+## Detail Requirements
+### High Level Requirements 
 | ID | Description | Status (Implemented/Future) | 
 | ----- | ----- | ---------|
 | HR01 | User shall be able to perform Arthimetic Operations | Implemented | 
 | HR02 | User shall be able to Other operations | Implemented |
 | HR03 | User shall be able to Trignometric Operations | Implemented |
-##  Low level Requirements
+### Low level Requirements
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
 | LR01 | Permorming Addition | HR01 | Implemented |
