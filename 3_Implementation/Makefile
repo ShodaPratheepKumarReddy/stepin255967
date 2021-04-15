@@ -47,7 +47,7 @@ test: $(SRC) $(TEST_SRC)
 coverage:${PROJECT_NAME}
 	gcc -fprofile-arcs -ftest-coverage main.c $(SRC) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
-	gcov -a $(SRC) main.c
+	gcov -a $(SRC) test/test_calculator.c
 
 cppcheck: $(SRC)
 	cppcheck --enable=all main.c $(SRC)
