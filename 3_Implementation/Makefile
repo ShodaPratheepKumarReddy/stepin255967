@@ -15,8 +15,6 @@ src/cosecant.c
 TEST_SRC = test/test_calculator.c\
 unity/unity.c
 
-TEST_C=test/test_calculator.c
-
 # All include folders with header files
 INC = -Iinc\
 -Iunity
@@ -47,7 +45,7 @@ test: $(SRC) $(TEST_SRC)
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) 
 	
 coverage:${PROJECT_NAME}
-	gcc -fprofile-arcs -ftest-coverage main.c $(SRC) $(TEST_C) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
+	gcc -fprofile-arcs -ftest-coverage main.c $(SRC) $(TEST_SCR) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 	gcov -a $(SRC) 
 
