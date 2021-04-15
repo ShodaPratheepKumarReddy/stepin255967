@@ -44,10 +44,11 @@ test: $(SRC) $(TEST_SRC)
 	gcc $^ $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) 
 	
-coverage:${PROJECT_NAME}
-	gcc -fprofile-arcs -ftest-coverage main.c $(SRC) $(TEST_SCR) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
+coverage:
+	cp test/test_calculator.c .
+	gcc -fprofile-arcs -ftest-coverage $(SRC) $(TEST_SCR) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
-	gcov -a $(SRC) 
+	gcov -a test/test_calculator.c
 
 cppcheck: $(SRC)
 	cppcheck --enable=all main.c $(SRC)
