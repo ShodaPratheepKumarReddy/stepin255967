@@ -46,7 +46,7 @@ test: $(SRC) $(TEST_SRC)
 	
 coverage:
 	cp test/test_calculator.c .
-	gcc -fprofile-arcs -ftest-coverage $(SRC) $(TEST_SCR) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
+	gcc -fprofile-arcs -ftest-coverage main.c $(SRC) $(TEST_SCR) $(INC) -o $(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC)) $(IN)
 	$(call FixPath,$(BUILD_DIR)/$(TEST_PROJ_NAME).$(EXEC))
 	gcov -a test/test_calculator.c
 
