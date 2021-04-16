@@ -57,9 +57,3 @@ valgrind:
 clean:
 	$(RM) $(call FixPath,$(BUILD_DIR)/*)
 	rmdir $(BUILD_DIR) 
-
-	
-
-	
-	
-
